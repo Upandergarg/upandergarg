@@ -46,9 +46,8 @@ I'm **Upander Garg**, a Computer Science Engineering student at **Chitkara Unive
 # 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,cpp,c,python,js,react,nodejs,express,mongodb,mysql,graphql,html,css,tailwind,git,github,linux,docker,aws,vscode,postman&perline=7"/>
+  <img src="https://skillicons.dev/icons?i=java,cpp,c,python,js,react,nodejs,express,mongodb,mysql,graphql,html,css,tailwind,git,github,linux,vscode,postman&perline=7"/>
 </p>
-
 ---
 
 # 🚀 Featured Projects
